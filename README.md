@@ -1,5 +1,5 @@
 # bklynCONNECT
-✨_An open digital literacy curriculum for a community-driven wireless network and intergenerational tech fellowship in Brooklyn_✨
+✨ _An open digital literacy curriculum for a community-driven wireless network and intergenerational tech fellowship in Brooklyn_ ✨
 
 ## Welcome
 Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many folks in Brooklyn to try and make wireless internet access and appropriate and equitable technology training a reality for Brooklyn residents. We're excited you want to participate!
