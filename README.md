@@ -2,12 +2,12 @@
 ✨ _An open digital literacy curriculum for a community-driven wireless network and intergenerational tech fellowship in Brooklyn_ ✨
 
 ## Welcome
-Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many folks in Brooklyn to try and make wireless internet access and appropriate and equitable technology training a reality for Brooklyn residents. We're excited you want to participate!
+Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many in Brooklyn to make wireless internet access and equitable technology training a reality for Brooklyn residents. We're excited you want to participate!
 
-This README file is meant to give you information about BklynCONNECT as it develops, and to let you know how you and/or people in your community can contribute. A pilot of the project will be collaboratively designed and built in one Brooklyn neighborhood, with the active participation of a community-based organization, at least one local library branch, and youth who might benefit from the network. We're not quite there yet, but soon this repository\[1\] will be used for collaborative work on appropriate, open, reusable community technology curricula. 
+This README file is meant to give you information about bklynCONNECT as it develops, and to let you know how you and/or people in your community can contribute. A pilot of the project will be collaboratively designed and built in one Brooklyn neighborhood, with the active participation of a community-based organization, at least one local library branch, and anyone who might benefit from the network. We're not quite there yet, but soon this repository\[1\] will be used for collaborating on an open, reusable community technology curriculum for the program. 
 
 ## Why the Brooklyn Public Library is Doing This
-Brooklyn Public Library (BPL) plays a crucial role as a community connector and hopes to deepen its cohort-based work readiness services. A community-driven wireless network and a technology-based fellowship program for young adults, ages 18-24, will serve up to 45 young people annually and will teach technology, leadership and workplace readiness skills. Fellows will install and maintain the wireless network, while engaging community members – residents, community-based organizations and small businesses – in using the free broadband access.
+Brooklyn Public Library (BPL) is an anchor institution that plays a crucial role as a community connector and hopes to deepen its cohort-based work readiness services. A community-driven wireless network and a technology-based fellowship program for young adults, ages 18-24, will serve up to 45 young people annually and will teach technology, leadership and workplace readiness skills. Fellows will install and maintain the wireless network, while engaging community members – residents, community-based organizations and small businesses – in using the free broadband access.
 
 ## Who are we?
 - **Maya Wagoner** ([@mayawagon](https://github.com/mayawagon)), Ford-Mozilla Open Web Fellow at BPL
@@ -28,11 +28,9 @@ Brooklyn Public Library (BPL) plays a crucial role as a community connector and 
 - **Reeba Toby**, T4 alum, summer fellow
 
 ## How to contribute
-Do you regularly access public wifi? Are you at a library right now? Are you lacking internet access at home? Do you need or want technology skills for improving your community, or for getting a job that involves technology? _Then we want to speak with you about what would be most useful to you and people like you. Email Maya (mwagoner@bklynlibrary.org) and tell her you're interested and would like to be interviewed._
-
-Do you have knowledge that you want to share? _Contact Maya (mwagoner@bklynlibrary.org) to see about guest teaching a technology workshop in the Brownsville or Bed-Stuy, or contributing to curricula._
-
-More ways to contribute coming soon! _Can you think of a way you'd like to contribute that is not listed here? Contact Maya (mwagoner@bklynlibrary.org) to add something new._
+- Do you regularly **access public wifi**? Are you **at a library** right now? Are you **lacking internet access** at home? Do you **need or want technology skills** for improving your community, or for getting a job that involves technology? _Then we want to speak with you about what would be most useful to you and people like you. Email Maya (mwagoner@bklynlibrary.org) and tell her you're interested and would like to be interviewed._
+- Do you have knowledge that you want to share? _Contact Maya (mwagoner@bklynlibrary.org) to see about guest teaching a technology workshop in the Brownsville or Bed-Stuy, or contributing to curricula._
+- More ways to contribute coming soon! _Can you think of a way you'd like to contribute that is not listed here? Contact Maya (mwagoner@bklynlibrary.org) to add something new._
 
 ## Projects we're inspired by, that you might be too
 - [Red Hook Wifi](http://redhookwifi.org/)
