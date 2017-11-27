@@ -1,5 +1,5 @@
 # bklynCONNECT
-✨ _An open digital literacy curriculum for a community-driven wireless network and intergenerational tech fellowship in Brooklyn_ ✨
+✨ _A community-driven wireless network and intergenerational tech stewardship program in Brownsville_ ✨
 
 ## Welcome
 Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many in Brooklyn to make wireless internet access and equitable technology training a reality for Brooklyn residents. We're excited you want to participate!
@@ -15,8 +15,9 @@ Brooklyn Public Library (BPL) is an anchor institution that plays a crucial role
 - **Selvon Smith**, Vice President of Technology and Chief Innovation Officer at BPL
 - **Rawle Jackman**, Manager of Technology Services at BPL
 - **Jackson Gomes**, Today's Teens, Tomorrow's Techies (T4) Project Coordinator at BPL
-- _A Brooklyn community organization_, (TBD)
-- _Local library branch staff_, (TBD)
+- [NYCxCoLabs](http://www.nyc.gov/html/nycx/index.html)
+- _Brownsville community organizations_, (TBD)
+- _Local library branch staff_, including **Adwoa Adusei**
 
 ## Who else has contributed so far?
 - **Story Bellows**, former project director and Chief Innovation and Performance Officer at BPL
@@ -28,7 +29,7 @@ Brooklyn Public Library (BPL) is an anchor institution that plays a crucial role
 - **Reeba Toby**, T4 alum, summer fellow
 
 ## How to contribute
-- Do you regularly **access public wifi**? Are you **at a library** right now? Are you **lacking internet access** at home? Do you **need or want technology skills** for improving your community, or for getting a job that involves technology? _Then we want to speak with you about what would be most useful to you and people like you. Email Maya (mwagoner@bklynlibrary.org) and tell her you're interested and would like to be interviewed._
+- Do you regularly **access public wifi**? Are you **at a library** right now? Are you **lacking internet access** at home? Do you **need or want technology skills** for improving your community, or for getting a job that involves technology? _Then we want to speak with you about what would be most useful to you and people like you. Email Maya (mwagoner@bklynlibrary.org) and tell her you're interested and would like to be interviewed, or stop by the Brownsville Public Library branch and ask for Adwoa Adusei._
 - Do you have knowledge that you want to share? _Contact Maya (mwagoner@bklynlibrary.org) to see about guest teaching a technology workshop in the Brownsville or Bed-Stuy, or contributing to curricula._
 - More ways to contribute coming soon! _Can you think of a way you'd like to contribute that is not listed here? Contact Maya (mwagoner@bklynlibrary.org) to add something new._
 
@@ -45,3 +46,4 @@ Brooklyn Public Library (BPL) is an anchor institution that plays a crucial role
 - **mesh** or **Community-driven mesh wireless network**: Mesh networks are wireless networks (WiFi) that connect communities by using inexpensive deveices to transmit wireless internet signals between each device and into the community, allowing anyone within the connectivity range to log on to the network and access the internet for free. 
 - **Roadmap**: a document outlining the schedule of work to be done on a project
 - **Issue**: the GitHub term for tasks, enhancements, and bugs. Use these to let us know about things that are wrong or should be addressed. 
+- **DiscoTech**: Short for **Disco**vering **Tech**nology, this is a science-fair style community technology skill share event, where people from all walks of life in the neighborhood can teach and learn from one another about technology. 
