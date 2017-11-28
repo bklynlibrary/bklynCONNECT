@@ -1,19 +1,21 @@
 # Resources in Brownsville: people, knowledge, space
 
 In order to organize a DiscoTech, we'll need the collaboration of lots of people and organizations in Brownsville. 
-- **space**: where is a place, within our budget, that can hold 20-30 people for the planning day of the DiscoTech on January 13th, and 100 for the public event on January 20th? We will need outlets and wifi. Ideally, they have tables, and are central, easy to get to, and of course wheelchair accessible
+- **Space**: where is a place, within our budget, that can hold 20-30 people for the planning day of the DiscoTech on January 13th, and 100 for the public event on January 20th? We will need outlets and wifi. Ideally, they have tables, and are central, easy to get to, and of course wheelchair accessible
 - **DJ**: Who is a great DJ from Brownsville that we want to support? A DiscoTech would be a misnomer if we didn't have music.
-- **Food**: People need it, and like it. Should the event be catered? Could/should it be a potluck?
-- **Station Managers**: DiscoTechs are all about prioritizing the participation of people who have been traditionally excluded and/or attacked by technology. Who can share their knowledge and experiences with technology in an interesting way
+- **Food**: Should the event be catered? Could/should it be a potluck? How many people should we expect to feed?
+- **Station Managers**: DiscoTechs are all about prioritizing the participation of people who have been traditionally excluded and/or attacked by technology. A station is similar to a table at a science fair — each station focuses on a unique drop-in activity. Who can share their knowledge and experiences with technology in an interesting way?
+- **Greeters**: Greeters are the people who welcome participants, help them navigate the DiscoTech, and solicit donations or surveys
+- **Host/MC**: This is someone who encourages people to explore and keeps people updated on movie screening times or raffle status (if we choose to do anything like this).
 
-|  	    	| Kind of resource  | Description |
-| --------- | :---------------: |-------------|
+| What	  	| Type  | Description |
+| --------- | :---: |-------------|
 | [Brownsville Heritage House](http://www.brownsvilleheritagehouse.org/) | space | Brownsville Heritage House functions as a Multi-Cultural Center that focus on the arts,culture, education and history. Here you will find ongoing exhibits featuring historical figures, local artists, sculptures and photo collages depicting Brownsville and surrounding communities.|
 |[3 Black Cats Cafe](http://3blackcatscafe.com/)|space, catering|a cafe, bakery, and meeting space in Brownsville owned by 3 Black women|
 |[Greg Jackson Center](https://www.community.solutions/blog/gregory-jackson-center-brownsville-community-hub-opens-its-doors)|space, station managers|a community hub space that houses several organizations, and has flexible space on the ground floor|
 |[Melting Pot/Brownsville Community Culinary Center](https://www.meltingpotfoundationusa.org/)|space, catering|The Brownsville Community Culinary Center brings world-class culinary resources to the Brownsville neighborhood. Including a 40-week culinary training program, table-service eatery, café, bakery, community gathering space.|
 |Bloc Bully IT Solutions||BLOC BULLY IT Solutions is a IT company that services and educates members of the Brownsville community. The company takes young kids off the the BLOC and trains them on how to work on computers.|
-|[Brooklyn Community Board 16](http://cb17brooklyn.org/)|||
+|[Brooklyn Community Board 16](http://cb17brooklyn.org/)||Community Board for Brownsville and Ocean Hill, meets on the fourth Tuesday of the month at 444 Thomas Boyland Street, Rm. 103, Brooklyn, NY 11212|
 |[Brooklyn Health Action Center](http://www.nyc.gov/health/actioncenters)||As part of the NYC Department of Health’s investment in key neighborhoods, the Center for Health Equity’s Neighborhood Health Action Center initiative is revitalizing underutilized Health Department buildings by co-locating health services, community health centers, public hospital clinical services, community-based organizations and service providers.|
 |[Brooklyn Public Library](https://bklynlibrary.org)|equipment, space||
 |[Brownsville Community Justice Center](https://www.courtinnovation.org/programs/brownsville-community-justice-center)|space, station managers||
@@ -30,4 +32,5 @@ In order to organize a DiscoTech, we'll need the collaboration of lots of people
 |[TruCircle](https://www.mytrucircle.com/)||TruCircle is an online community dedicated to helping individuals and families overcome personal issues through professional therapy and peer connectedness. Founded by an entrepreneur with roots in Brownsville, Brooklyn, allowing the leadership team to use their first-hand knowledge of the effects of substance abuse, violence, and poverty resulting in mental illness. TruCircle enables individuals to share experiences, strategies and inspiration all in complete confidence. TruCircle’s headquarters are located in Brooklyn, NY.|
 |[What About The Children](http://whataboutthechildreninc.org/)||What About The Children is a pipeline to underserved communities for services needed. In our efforts to encourage the social development and educational growth of our youth, we provide workshops, resources, group events and college tours. We include the family, school, church and community in our endeavors.|
 |[Tahir Hemphill](https://tahirhemphill.com/)||Technologist, archivist, artist, and educator. Runs the Rap Research Lab and has a geotagged database of rap lyrics that take place in Brooklyn|
+|[Jeffrey Beauty Supply](http://www.jeffreybeautysupply.com/)||First black-owned beauty supply store in Brownsville|
 ||DJ||
