@@ -7,8 +7,8 @@ Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many 
 This README file is meant to give you information about bklynCONNECT as it develops, and to let you know how you and/or people in your community can contribute. A pilot of the project will be collaboratively designed and built in one Brooklyn neighborhood, with the active participation of a community-based organization, at least one local library branch, and anyone who might benefit from the network. We're not quite there yet, but soon this repository\[1\] will be used for collaborating on an open[2], reusable community technology curriculum for the program. 
 
 - [Potentially helpful resources and organizations](brownsville-resources.md)
-- [Project Roadmap](roadmap.md)
-- [example flyer from a previous DiscoTech](sf-discotech-flyer-2014.png)
+- [Project roadmap and milestones](roadmap.md)
+- [Example flyer from a previous DiscoTech](sf-discotech-flyer-2014.png)
 
 ## Why the Brooklyn Public Library is Doing This
 Brooklyn Public Library (BPL) is an anchor institution that plays a crucial role as a community connector and hopes to deepen its cohort-based work readiness services. A community-driven wireless network and a technology-based fellowship program for young adults, ages 18-24, will serve up to 45 young people annually and will teach technology, leadership and workplace readiness skills. Fellows will install and maintain the wireless network, while engaging community members – residents, community-based organizations and small businesses – in using the free broadband access.
