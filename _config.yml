@@ -27,7 +27,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: hanuman
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
