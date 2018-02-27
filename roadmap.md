@@ -10,8 +10,9 @@ BklynConnect is a community-driven wireless internet implementation in Osborn Pl
 | January | DiscoTech event at Brownsville Heritage House January 13th and 20th, worked with Brownsville Community Justice Center and Mayors Office of Technology and Innovation to design the structure for a project-based, co-designed curriculum for cohort of BCJC fellows around community information access |
 | February | Beginning of BCJC youth fellowship |
 | March | Middle of BCJC youth fellowship |
-| April | End of BCJC Fellowship and public launch of Osborn Plaza community-driven wifi and information kiosk |
-| May | Shared curriculum for a community-driven information portal published, along with finalized BklynConnect Playbook |
+| April | Portable Network Kit training and installation of portable public wifi in local businesses |
+| May | Public launch of free wireless network in Osborn Plaza and along Belmont avenue, and conclusion of youth internship. Mozilla Global Sprint. |
+| June | Shared curriculum for a community-driven information portal published, along with finalized BklynConnect Playbook |
 
 # Milestones
 1. Organize an event that can serve as an initial prototype of the digital fellowship, and a site to conduct user research
