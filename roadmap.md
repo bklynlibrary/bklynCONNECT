@@ -34,6 +34,10 @@ BklynConnect is a community-driven wireless internet implementation in Osborn Pl
 - work with an organization that has capacity to host stewards
 - explore ways to pay stewards
 
+## Milestone 4, May 10-11: Mozilla Global Sprint
+- find ways to involve the expertise of people outside of Brownsville in the project
+- find a way to encourage people to learn from and replicate our process
+
 # How to Get Involved
 - Help plan and promote the bklynConnect intergenerational digital literacy pilot event
 - Share links to helpful curricula, projects, and people
