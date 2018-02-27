@@ -8,7 +8,7 @@ BklynConnect is a community-driven wireless internet implementation in Osborn Pl
 | November | Made CBO and government connections in Brownsville with Naila Rosario (BPL), contributed sections to the BklynConnect Playbook draft |
 | December | Created research plan and survey for DiscoTech event in January |
 | January | DiscoTech event at Brownsville Heritage House January 13th and 20th, worked with Brownsville Community Justice Center and Mayors Office of Technology and Innovation to design the structure for a project-based, co-designed curriculum for cohort of BCJC fellows around community information access |
-| February | Beginning of BCJC youth fellowship, and installation of WiFi access point and kiosk in Osborn Plaza |
+| February | Beginning of BCJC youth fellowship |
 | March | Middle of BCJC youth fellowship |
 | April | End of BCJC Fellowship and public launch of Osborn Plaza community-driven wifi and information kiosk |
 | May | Shared curriculum for a community-driven information portal published, along with finalized BklynConnect Playbook |
@@ -18,18 +18,18 @@ BklynConnect is a community-driven wireless internet implementation in Osborn Pl
 2. Install the network in Osborn Plaza
 3. Covene a group of stewards
 
-# Milestone 1, January 13th and 20th, 2018: Organize an event that can serve as an initial prototype of the digital fellowship, and a site to conduct user research
+## Milestone 1, January 13th and 20th, 2018: Organize an event that can serve as an initial prototype of the digital fellowship, and a site to conduct user research
 - Identify committed individuals and Brownsville leaders who might be able to bring interactive stations to DiscoTech
 - Set up one Saturday to workshop workshops and stations, and for people of all ages to co-plan the event, with help
 - Secure a space and a date
 
-# Milestone 2, by April 14th, 2018: Install physical infrastructure in Osborn Plaza
+## Milestone 2, by April 14th, 2018: Install physical infrastructure in Osborn Plaza
 - Meet with Rawle Jackman and the Mayor's office to go over everything that is needed to do this
 - Install kiosks
 - Install wireless access point
 - Meet with Greta Byrum and Raul Enriquez from New America to make this access point possibly extensible into a mesh network in the future
 
-# Milestone 3, February and March, 2018: Convene a Group of Stewards
+## Milestone 3, February and March, 2018: Convene a Group of Stewards
 - identify the type of people and type of outcomes the program should be designed to prioritize
 - work with an organization that has capacity to host stewards
 - explore ways to pay stewards
