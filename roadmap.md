@@ -21,24 +21,23 @@ BklynConnect is a community-driven wireless internet implementation in Osborn Pl
 
 ## Milestone 1, January 13th and 20th, 2018: [DiscoTech](https://github.com/mayawagon/bklynCONNECT/milestone/1)
 Organize an event that can serve as an initial prototype of the digital fellowship, and a site to conduct user research
-- Identify committed individuals and Brownsville leaders who might be able to bring interactive stations to DiscoTech
-- Set up one Saturday to workshop workshops and stations, and for people of all ages to co-plan the event, with help
-- Secure a space and a date
+- ]Identify committed individuals and Brownsville leaders who might be able to bring interactive stations to DiscoTech](https://github.com/mayawagon/bklynCONNECT/issues/4)
+- [Set up one Saturday to workshop workshops and stations, and for people of all ages to co-plan the event, with help](https://github.com/mayawagon/bklynCONNECT/issues/5)
+- [Secure a space and a date](https://github.com/mayawagon/bklynCONNECT/issues/6)
 
 ## Milestone 2, by April 14th, 2018: [Osborn Plaza Installation](https://github.com/mayawagon/bklynCONNECT/milestone/2)
-- Meet with Rawle Jackman and the Mayor's office to go over everything that is needed to do this
-- Install kiosks
-- Install wireless access point
-- Meet with Greta Byrum and Raul Enriquez from New America to make this access point possibly extensible into a mesh network in the future
+- [Meet with Rawle Jackman and the Mayor's office to go over everything that is needed to do this](https://github.com/mayawagon/bklynCONNECT/issues/7)
+- [Install wireless access point](https://github.com/mayawagon/bklynCONNECT/issues/8)
+- [Meet with Greta Byrum and Raul Enriquez from New America to make this access point possibly extensible into a mesh network in the future](https://github.com/mayawagon/bklynCONNECT/issues/9)
 
 ## Milestone 3, February and March, 2018: [Convene participants](https://github.com/mayawagon/bklynCONNECT/milestone/3)
-- identify the type of people and type of outcomes the program should be designed to prioritize
-- work with an organization that has capacity to host stewards
-- explore ways to pay stewards
+- [identify the type of people and type of outcomes the program should be designed to prioritize](https://github.com/mayawagon/bklynCONNECT/issues/10)
+- [work with an organization that has capacity to host stewards](https://github.com/mayawagon/bklynCONNECT/issues/11)
+- [explore ways to pay stewards](https://github.com/mayawagon/bklynCONNECT/issues/12)
 
 ## Milestone 4, May 10-11: [Mozilla Global Sprint](https://github.com/mayawagon/bklynCONNECT/milestone/4)
-- find ways to involve the expertise of people outside of Brownsville in the project
-- find a way to encourage people to learn from and replicate our process
+- [find ways to involve the expertise of people outside of Brownsville in the project](https://github.com/mayawagon/bklynCONNECT/issues/13)
+- [find a way to encourage people to learn from and replicate our process](https://github.com/mayawagon/bklynCONNECT/issues/14)
 
 # How to Get Involved
 - Help plan and promote the bklynConnect intergenerational digital literacy pilot event
