@@ -4,7 +4,7 @@
 ## Welcome
 Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many in Brooklyn to make wireless internet access and equitable technology training a reality for Brooklyn residents. We're excited you want to participate!
 
-This README file is meant to give you information about bklynCONNECT as it develops, and to let you know how you and/or people in your community can contribute. A pilot of the project will be collaboratively designed and built in one Brooklyn neighborhood, with the active participation of a community-based organization, at least one local library branch, and anyone who might benefit from the network. We're not quite there yet, but soon this repository\[1\] will be used for collaborating on an open[2], reusable community technology curriculum for the program. 
+This README file is meant to give you information about bklynCONNECT as it develops, and to let you know how you and/or people in your community can contribute. A pilot of the project will be collaboratively designed and built in Brownsville, by youth participating in the Brownsville Community Justice Center's tech lab, trainers from the New America Resilient Communities program, and anyone in Brownsville who might benefit from (or be harmed by) the network. We're not quite there yet, but soon this repository\[1\] will be used for collaborating on an open[2], reusable community technology curriculum for the program. 
 
 - [Potentially helpful resources and organizations](brownsville-resources.md)
 - [Project roadmap and milestones](roadmap.md)
