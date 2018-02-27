@@ -19,23 +19,24 @@ BklynConnect is a community-driven wireless internet implementation in Osborn Pl
 2. Install the network in Osborn Plaza
 3. Covene a group of stewards
 
-## Milestone 1, January 13th and 20th, 2018: Organize an event that can serve as an initial prototype of the digital fellowship, and a site to conduct user research
+## Milestone 1, January 13th and 20th, 2018: [DiscoTech](https://github.com/mayawagon/bklynCONNECT/milestone/1)
+Organize an event that can serve as an initial prototype of the digital fellowship, and a site to conduct user research
 - Identify committed individuals and Brownsville leaders who might be able to bring interactive stations to DiscoTech
 - Set up one Saturday to workshop workshops and stations, and for people of all ages to co-plan the event, with help
 - Secure a space and a date
 
-## Milestone 2, by April 14th, 2018: Install physical infrastructure in Osborn Plaza
+## Milestone 2, by April 14th, 2018: [Osborn Plaza Installation](https://github.com/mayawagon/bklynCONNECT/milestone/2)
 - Meet with Rawle Jackman and the Mayor's office to go over everything that is needed to do this
 - Install kiosks
 - Install wireless access point
 - Meet with Greta Byrum and Raul Enriquez from New America to make this access point possibly extensible into a mesh network in the future
 
-## Milestone 3, February and March, 2018: Convene a Group of Stewards
+## Milestone 3, February and March, 2018: [Convene participants](https://github.com/mayawagon/bklynCONNECT/milestone/3)
 - identify the type of people and type of outcomes the program should be designed to prioritize
 - work with an organization that has capacity to host stewards
 - explore ways to pay stewards
 
-## Milestone 4, May 10-11: Mozilla Global Sprint
+## Milestone 4, May 10-11: [Mozilla Global Sprint](https://github.com/mayawagon/bklynCONNECT/milestone/4)
 - find ways to involve the expertise of people outside of Brownsville in the project
 - find a way to encourage people to learn from and replicate our process
 
