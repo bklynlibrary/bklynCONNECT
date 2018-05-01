@@ -7,7 +7,7 @@ Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many 
 This README file is meant to give you information about bklynCONNECT as it develops, and to let you know how you and/or people in your community can contribute. A pilot of the project will be collaboratively designed and built in Brownsville, by youth participating in the Brownsville Community Justice Center's tech lab, trainers from the New America Resilient Communities program, and anyone in Brownsville who might benefit from (or be harmed by) the network. We're not quite there yet, but soon this repository\[1\] will be used for collaborating on an open[2], reusable community technology curriculum for the program. 
 
 - [Curriculum Guide](https://docs.google.com/document/d/1sZLhq8VYMmUQGTuuZ0I7k-LEnMXuVUUwcUOOeXRQPus/edit?usp=sharing)
-- [Project site](https://mayawagon.github.io/datamoves/)
+- [Project site](https://bklynlibrary.github.io/datamoves/)
 - [Potentially helpful resources and organizations](brownsville-resources.md)
 - [Project roadmap and milestones](roadmap.md)
 - [Example flyer from a previous DiscoTech](sf-discotech-flyer-2014.png)
